@@ -22,7 +22,7 @@ Using the `statsmodels` library, we applied an OLS (Ordinary Least Squares) regr
 
 # Regressão Linear Múltipla: Predição de Preço de Apartamentos
 
-Este projeto utiliza **regressão linear múltipla** para prever o preço de apartamentos com base em duas variáveis explicativas: **tamanho (em m²)** e **vista para o mar**.
+Este projeto utiliza **regressão linear múltipla** para prever o preço de apartamentos com base em duas variáveis explicativas: **tamanho** e **vista para o mar**.
 
 ## 🧠 Objetivo
 Avaliar o quanto o **tamanho do imóvel** e a presença de **vista para o mar** (variável dummy) influenciam o preço do apartamento.
